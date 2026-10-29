@@ -1,0 +1,22 @@
+{
+  "wheel_id": 494,
+  "structure": "umbrella",
+  "slug": "bendigofinancebroker-152",
+  "project": "finance-broker-bendigo-5779640723bb791115babb4645499c5a06be8502",
+  "parent_t1_ref": "bendigofinancebroker-011",
+  "node_role": "buffer",
+  "money_target": "bendigofinancebroker.com.au",
+  "primary_kw": "finance broker bendigo",
+  "intended_url": "http://finance-broker-bendigo-5779640723bb791115babb4645499c5a06be8502.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "d8c921da247cf36b",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/finance-broker-bendigo-011/",
+      "anchor": "the finance broker bendigo overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
